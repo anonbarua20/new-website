@@ -193,6 +193,17 @@ padding: 16px 32px;
     left: 81%;
 }
 
+.main-three  h2{
+    position: absolute;
+    margin-left: -5% ;
+    margin-top: 1%;
+}
+.main-three  h1{
+    position: absolute;
+    margin-left: -11% ;
+    margin-top: 2%;
+}
+
 .main-four .circle-two{
     position: absolute;
     top: 50%;
@@ -265,7 +276,7 @@ padding: 16px 32px;
 }
 
 .main-seven{
-    background-color: #fffb00;
+    background-color: #ffffff;
     width: 1320px;
     height: 1220px;
     position: relative;
@@ -342,6 +353,8 @@ padding: 16px 32px;
 .main-seven-one-seven:hover{
     transform: scale(2,2);
 }
+
+
 
 
 
